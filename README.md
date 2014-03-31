@@ -11,5 +11,5 @@ A simplistic blogging platform
 <br>
 <b>User Registration:</b><br>
 1. Login to mysql.exe on your webserver<br>
-2. USE <database><br>
-3. INSERT INTO users(user,pass) VALUES('username','md5password')<br>
+2. USE [database]<br>
+3. INSERT INTO users(user,pass) VALUES('[username]','[password in md5]')<br>
