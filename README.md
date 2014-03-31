@@ -3,7 +3,7 @@ Notch
 
 A simplistic blogging platform
 
-Installation:
+Installation:<br>
 1. Download the repo.
 2. Upload it to your web server.
 3. Go to the homepage of your web server.
