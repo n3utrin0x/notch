@@ -1,7 +1,7 @@
 Notch
 =====
 
-A simple blogging platform
+A simple blogging platform. Notch is currently still in the development process and the current build lacks many crucial features of a complete blogging platform.
 
 <b>Installation:</b><br>
 1. Download the repo.<br>
