@@ -1,4 +1,4 @@
 Notch
 =====
 
-A simple blogging platform. Work in progress.
+A simplistifc single-user blogging platform. Work in progress.
